@@ -3,6 +3,7 @@
 - https://github.com/rogersdepelle/OffComBR (Dataset de discurso de ódio desbalanceado)
 - https://github.com/JAugusto97/ToLD-Br (Dataset de discurso de ódio separado por diversas classes)
 - https://github.com/francielleavargas/HateBR ( )
+- https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset ( )
 
 ## [Hate Speech in PT-BR](#related)
 - A Classifier Ensemble for Offensive Text Detection (https://dl.acm.org/doi/10.1145/3243082.3243111)
