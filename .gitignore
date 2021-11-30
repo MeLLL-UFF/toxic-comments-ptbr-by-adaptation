@@ -1,0 +1,6 @@
+Scripts/env/
+Scripts/nilc_embeddings/
+Scripts/pretrained-model-bert-base-portuguese-cased-fine-tuning-1/
+Scripts/ScriptBagOfWordsBackup.ipynb
+Scripts/.vector_cache/
+Scripts/.ipynb_checkpoints/
