@@ -11,5 +11,8 @@
 - Contextual-Lexicon Approach for Abusive Language Detection (https://sites.icmc.usp.br/taspardo/RANLP2021-VargasEtAl.pdf)
 - A Semi-Supervised Approach to Detect Toxic Comments (https://aclanthology.org/2021.ranlp-1.142/)
 
+## [Hate Speech in other languages that can help PT](#other)
+- HABERTOR: An Efficient and Effective Deep Hatespeech Detector (https://aclanthology.org/2020.emnlp-main.606.pdf): não achei código nem modelo pre-treinado
+
 ## [Inspiration](#inspiration)
 https://dnozza.github.io/project/hate_speech_misogyny_detection/
